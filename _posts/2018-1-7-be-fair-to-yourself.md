@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Be Fair to Yourself
 ---
 
 [![Be Fair to Yourself](http://img.youtube.com/vi/MKd9jNT8Ix8/0.jpg)](http://www.youtube.com/watch?v=MKd9jNT8Ix8 "Be Fair to Yourself")
